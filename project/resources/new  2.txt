@@ -1,0 +1,211 @@
+
+GO
+INSERT [dbo].[RespuestaPreguntasFijas] ([idEncuesta], [idControl], [observaciones], [recomienda], [calidad]) VALUES (49, 1, NULL, NULL, N'NA')
+GO
+INSERT [dbo].[RespuestaPreguntasFijas] ([idEncuesta], [idControl], [observaciones], [recomienda], [calidad]) VALUES (49, 2, NULL, 1, N'semejante')
+GO
+INSERT [dbo].[RespuestaPreguntasFijas] ([idEncuesta], [idControl], [observaciones], [recomienda], [calidad]) VALUES (49, 3, NULL, 1, N'mejor')
+GO
+INSERT [dbo].[RespuestaPreguntasFijas] ([idEncuesta], [idControl], [observaciones], [recomienda], [calidad]) VALUES (49, 6, N'HAY SERVICIOS NO ACTIVADOS.', 1, N'mejor')
+GO
+INSERT [dbo].[RespuestaPreguntasFijas] ([idEncuesta], [idControl], [observaciones], [recomienda], [calidad]) VALUES (49, 8, NULL, 1, N'semejante')
+GO
+INSERT [dbo].[RespuestaPreguntasFijas] ([idEncuesta], [idControl], [observaciones], [recomienda], [calidad]) VALUES (49, 9, NULL, 1, N'semejante')
+GO
+INSERT [dbo].[RespuestaPreguntasFijas] ([idEncuesta], [idControl], [observaciones], [recomienda], [calidad]) VALUES (49, 10, N'En esta residencia los servicios que presta son: mantenimiento, auxiliares de enfermería, recepción, cocina y limpieza.', 1, N'semejante')
+GO
+INSERT [dbo].[RespuestaPreguntasFijas] ([idEncuesta], [idControl], [observaciones], [recomienda], [calidad]) VALUES (49, 12, NULL, 1, N'semejante')
+GO
+INSERT [dbo].[RespuestaPreguntasFijas] ([idEncuesta], [idControl], [observaciones], [recomienda], [calidad]) VALUES (49, 14, NULL, 1, N'mejor')
+GO
+INSERT [dbo].[RespuestaPreguntasFijas] ([idEncuesta], [idControl], [observaciones], [recomienda], [calidad]) VALUES (49, 15, NULL, 1, N'mejor')
+GO
+INSERT [dbo].[RespuestaPreguntasFijas] ([idEncuesta], [idControl], [observaciones], [recomienda], [calidad]) VALUES (49, 16, NULL, 1, N'semejante')
+GO
+INSERT [dbo].[RespuestaPreguntasFijas] ([idEncuesta], [idControl], [observaciones], [recomienda], [calidad]) VALUES (49, 17, NULL, 1, N'mejor')
+GO
+INSERT [dbo].[RespuestaPreguntasFijas] ([idEncuesta], [idControl], [observaciones], [recomienda], [calidad]) VALUES (49, 21, N'Ciertos items no se contestan por no ser usuaria de los mismos', 1, N'mejor')
+GO
+INSERT [dbo].[RespuestaPreguntasFijas] ([idEncuesta], [idControl], [observaciones], [recomienda], [calidad]) VALUES (49, 23, NULL, 1, N'semejante')
+GO
+INSERT [dbo].[RespuestaPreguntasFijas] ([idEncuesta], [idControl], [observaciones], [recomienda], [calidad]) VALUES (49, 26, NULL, 1, N'mejor')
+GO
+INSERT [dbo].[RespuestaPreguntasFijas] ([idEncuesta], [idControl], [observaciones], [recomienda], [calidad]) VALUES (49, 31, N'El mantenimiento de Centro Socio-Sanitario es deficiente.
+ La elaboración de menús no se ajusta a la época estacional y suele ser redundante, poco variado.
+Tratamiento de quejas en relación a algún personal del centro, no ha sido eficiente.', 1, N'semejante')
+GO
+INSERT [dbo].[RespuestaPreguntasFijas] ([idEncuesta], [idControl], [observaciones], [recomienda], [calidad]) VALUES (49, 32, N'Recordar que el servicio de Sociosanitario de la empresa CLECE está compartido y coordinado con el personal técnico del Instituto Social y Sociosantiario del Cabildo de Gran Canaria.', 1, N'mejor')
+GO
+INSERT [dbo].[RespuestaPreguntasFijas] ([idEncuesta], [idControl], [observaciones], [recomienda], [calidad]) VALUES (49, 33, N'Transcurridos más de 10 meses desde la firma del contrato administrativo de gestión, el grado de cumplimiento, en lo que se refiere a las mejoras ofertadas por CLECE, Servicios Sociales, S.A., se considera muy deficiente. La respuesta a los requerimientos, por escrito, de documentación , ha sido prácticamente nula.', 0, N'semejante')
+GO
+INSERT [dbo].[RespuestaPreguntasFijas] ([idEncuesta], [idControl], [observaciones], [recomienda], [calidad]) VALUES (49, 41, NULL, 1, N'mejor')
+GO
+INSERT [dbo].[RespuestaPreguntasFijas] ([idEncuesta], [idControl], [observaciones], [recomienda], [calidad]) VALUES (51, 46, NULL, 1, N'mejor')
+GO
+INSERT [dbo].[RespuestaPreguntasFijas] ([idEncuesta], [idControl], [observaciones], [recomienda], [calidad]) VALUES (51, 47, NULL, 1, N'semejante')
+GO
+INSERT [dbo].[RespuestaPreguntasFijas] ([idEncuesta], [idControl], [observaciones], [recomienda], [calidad]) VALUES (51, 48, NULL, 1, N'semejante')
+GO
+INSERT [dbo].[RespuestaPreguntasFijas] ([idEncuesta], [idControl], [observaciones], [recomienda], [calidad]) VALUES (51, 55, N'Al ser un centro con personal de ciudad autonoma y CLECE el comedor escolar es responsabilidad de la ciudad autónoma, es por ello que no lo he valorado.
+Estoy muy satisfecha con el trabajo que realizan las trabajadoras del centro, aunque no se corresponda con el sueldo que reciben.', 1, N'mejor')
+GO
+INSERT [dbo].[RespuestaPreguntasFijas] ([idEncuesta], [idControl], [observaciones], [recomienda], [calidad]) VALUES (51, 57, NULL, 1, N'mejor')
+GO
+INSERT [dbo].[RespuestaPreguntasFijas] ([idEncuesta], [idControl], [observaciones], [recomienda], [calidad]) VALUES (51, 59, NULL, NULL, NULL)
+GO
+INSERT [dbo].[RespuestaPreguntasFijas] ([idEncuesta], [idControl], [observaciones], [recomienda], [calidad]) VALUES (51, 65, N'GRAN PROFESIONALIDAD DEL SERVICIO', 1, N'mejor')
+GO
+INSERT [dbo].[RespuestaPreguntasFijas] ([idEncuesta], [idControl], [observaciones], [recomienda], [calidad]) VALUES (51, 67, NULL, 1, N'mejor')
+GO
+INSERT [dbo].[RespuestaPreguntasFijas] ([idEncuesta], [idControl], [observaciones], [recomienda], [calidad]) VALUES (51, 68, NULL, 1, N'mejor')
+GO
+INSERT [dbo].[RespuestaPreguntasFijas] ([idEncuesta], [idControl], [observaciones], [recomienda], [calidad]) VALUES (51, 69, NULL, 1, N'NA')
+GO
+INSERT [dbo].[RespuestaPreguntasFijas] ([idEncuesta], [idControl], [observaciones], [recomienda], [calidad]) VALUES (51, 70, NULL, NULL, NULL)
+GO
+INSERT [dbo].[RespuestaPreguntasFijas] ([idEncuesta], [idControl], [observaciones], [recomienda], [calidad]) VALUES (51, 71, NULL, NULL, NULL)
+GO
+INSERT [dbo].[RespuestaPreguntasFijas] ([idEncuesta], [idControl], [observaciones], [recomienda], [calidad]) VALUES (51, 80, NULL, 1, NULL)
+GO
+INSERT [dbo].[RespuestaPreguntasFijas] ([idEncuesta], [idControl], [observaciones], [recomienda], [calidad]) VALUES (51, 88, N'En Guía de Isora existen dos escuelas infantiles, funcinan a distinto nivel. Hay aspectos a mejorar( relación familia escuela, defensa de la imagen y servicio del Ayuntamiento,..)', 1, N'mejor')
+GO
+INSERT [dbo].[RespuestaPreguntasFijas] ([idEncuesta], [idControl], [observaciones], [recomienda], [calidad]) VALUES (51, 91, NULL, 1, N'mejor')
+GO
+INSERT [dbo].[RespuestaPreguntasFijas] ([idEncuesta], [idControl], [observaciones], [recomienda], [calidad]) VALUES (51, 100, NULL, 1, N'NA')
+GO
+INSERT [dbo].[RespuestaPreguntasFijas] ([idEncuesta], [idControl], [observaciones], [recomienda], [calidad]) VALUES (51, 101, NULL, 1, N'semejante')
+GO
+INSERT [dbo].[RespuestaPreguntasFijas] ([idEncuesta], [idControl], [observaciones], [recomienda], [calidad]) VALUES (51, 102, NULL, 1, N'semejante')
+GO
+INSERT [dbo].[RespuestaPreguntasFijas] ([idEncuesta], [idControl], [observaciones], [recomienda], [calidad]) VALUES (51, 105, NULL, 1, N'semejante')
+GO
+INSERT [dbo].[RespuestaPreguntasFijas] ([idEncuesta], [idControl], [observaciones], [recomienda], [calidad]) VALUES (51, 114, NULL, 1, N'mejor')
+GO
+INSERT [dbo].[RespuestaPreguntasFijas] ([idEncuesta], [idControl], [observaciones], [recomienda], [calidad]) VALUES (51, 115, NULL, 1, N'mejor')
+GO
+INSERT [dbo].[RespuestaPreguntasFijas] ([idEncuesta], [idControl], [observaciones], [recomienda], [calidad]) VALUES (51, 116, NULL, 1, N'mejor')
+GO
+INSERT [dbo].[RespuestaPreguntasFijas] ([idEncuesta], [idControl], [observaciones], [recomienda], [calidad]) VALUES (52, 119, N'La atención que recibimos de las personas de la empresa, desde la que nos atiende por teléfo-no hasta las que tienen la responsabilidad de organizar el servicio y resolver los problemas, es excelente.', 1, N'NA')
+GO
+INSERT [dbo].[RespuestaPreguntasFijas] ([idEncuesta], [idControl], [observaciones], [recomienda], [calidad]) VALUES (56, 124, NULL, 0, N'peor')
+GO
+INSERT [dbo].[RespuestaPreguntasFijas] ([idEncuesta], [idControl], [observaciones], [recomienda], [calidad]) VALUES (56, 125, NULL, 1, N'semejante')
+GO
+INSERT [dbo].[RespuestaPreguntasFijas] ([idEncuesta], [idControl], [observaciones], [recomienda], [calidad]) VALUES (56, 127, NULL, 1, N'NA')
+GO
+INSERT [dbo].[RespuestaPreguntasFijas] ([idEncuesta], [idControl], [observaciones], [recomienda], [calidad]) VALUES (56, 128, NULL, 1, N'NA')
+GO
+INSERT [dbo].[RespuestaPreguntasFijas] ([idEncuesta], [idControl], [observaciones], [recomienda], [calidad]) VALUES (56, 129, N'Existen puntos notables de mejora en cuanto a valoracion de usuarios, sustituciones de personal, informacion actualizada sobre presupuesto de mejoras. Desconozco el servicio ofrecido por otras empresas. No tengo elementos para comparar.', NULL, N'NA')
+GO
+INSERT [dbo].[RespuestaPreguntasFijas] ([idEncuesta], [idControl], [observaciones], [recomienda], [calidad]) VALUES (51, 74, NULL, 1, N'NA')
+GO
+INSERT [dbo].[RespuestaPreguntasFijas] ([idEncuesta], [idControl], [observaciones], [recomienda], [calidad]) VALUES (48, 131, NULL, 1, N'semejante')
+GO
+INSERT [dbo].[RespuestaPreguntasFijas] ([idEncuesta], [idControl], [observaciones], [recomienda], [calidad]) VALUES (48, 132, NULL, 1, N'mejor')
+GO
+INSERT [dbo].[RespuestaPreguntasFijas] ([idEncuesta], [idControl], [observaciones], [recomienda], [calidad]) VALUES (48, 134, N'Mejorar la comunicación entre coordinador/a empresa y personal auxiliar de ayuda a domicilio
+Que el personal de ayuda a domicilio tenga protocolos claros de lo que debe hacer: ejemplo:
+- para comunicarse con su empresa, como, cuando y motivo
+- situaciones de emergencia, etc
+Que el personal en bolsa esté formado y preparado para su inmediata incorporacion
+contar con una carpeta individualizada con las tareas y la información fundamental de cada persona usuaria del SAD', 1, N'semejante')
+GO
+INSERT [dbo].[RespuestaPreguntasFijas] ([idEncuesta], [idControl], [observaciones], [recomienda], [calidad]) VALUES (48, 135, NULL, 0, N'semejante')
+GO
+INSERT [dbo].[RespuestaPreguntasFijas] ([idEncuesta], [idControl], [observaciones], [recomienda], [calidad]) VALUES (48, 136, NULL, 1, N'mejor')
+GO
+INSERT [dbo].[RespuestaPreguntasFijas] ([idEncuesta], [idControl], [observaciones], [recomienda], [calidad]) VALUES (48, 139, NULL, 0, N'peor')
+GO
+INSERT [dbo].[RespuestaPreguntasFijas] ([idEncuesta], [idControl], [observaciones], [recomienda], [calidad]) VALUES (48, 141, NULL, NULL, N'NA')
+GO
+INSERT [dbo].[RespuestaPreguntasFijas] ([idEncuesta], [idControl], [observaciones], [recomienda], [calidad]) VALUES (48, 142, NULL, NULL, N'NA')
+GO
+INSERT [dbo].[RespuestaPreguntasFijas] ([idEncuesta], [idControl], [observaciones], [recomienda], [calidad]) VALUES (48, 143, NULL, NULL, N'NA')
+GO
+INSERT [dbo].[RespuestaPreguntasFijas] ([idEncuesta], [idControl], [observaciones], [recomienda], [calidad]) VALUES (48, 144, NULL, NULL, N'NA')
+GO
+INSERT [dbo].[RespuestaPreguntasFijas] ([idEncuesta], [idControl], [observaciones], [recomienda], [calidad]) VALUES (48, 145, NULL, NULL, N'NA')
+GO
+INSERT [dbo].[RespuestaPreguntasFijas] ([idEncuesta], [idControl], [observaciones], [recomienda], [calidad]) VALUES (48, 147, NULL, 1, N'semejante')
+GO
+INSERT [dbo].[RespuestaPreguntasFijas] ([idEncuesta], [idControl], [observaciones], [recomienda], [calidad]) VALUES (48, 148, NULL, 1, N'semejante')
+GO
+INSERT [dbo].[RespuestaPreguntasFijas] ([idEncuesta], [idControl], [observaciones], [recomienda], [calidad]) VALUES (48, 150, NULL, NULL, NULL)
+GO
+INSERT [dbo].[RespuestaPreguntasFijas] ([idEncuesta], [idControl], [observaciones], [recomienda], [calidad]) VALUES (48, 151, NULL, 1, N'mejor')
+GO
+INSERT [dbo].[RespuestaPreguntasFijas] ([idEncuesta], [idControl], [observaciones], [recomienda], [calidad]) VALUES (48, 153, NULL, 1, N'semejante')
+GO
+INSERT [dbo].[RespuestaPreguntasFijas] ([idEncuesta], [idControl], [observaciones], [recomienda], [calidad]) VALUES (48, 157, N'En general la valoración del desarrollo y prestación del servicio, es del todo satisfactoria.', 1, N'semejante')
+GO
+INSERT [dbo].[RespuestaPreguntasFijas] ([idEncuesta], [idControl], [observaciones], [recomienda], [calidad]) VALUES (48, 160, NULL, 1, N'semejante')
+GO
+INSERT [dbo].[RespuestaPreguntasFijas] ([idEncuesta], [idControl], [observaciones], [recomienda], [calidad]) VALUES (48, 162, NULL, 1, N'NA')
+GO
+INSERT [dbo].[RespuestaPreguntasFijas] ([idEncuesta], [idControl], [observaciones], [recomienda], [calidad]) VALUES (48, 164, NULL, 1, N'NA')
+GO
+INSERT [dbo].[RespuestaPreguntasFijas] ([idEncuesta], [idControl], [observaciones], [recomienda], [calidad]) VALUES (48, 167, NULL, 1, N'semejante')
+GO
+INSERT [dbo].[RespuestaPreguntasFijas] ([idEncuesta], [idControl], [observaciones], [recomienda], [calidad]) VALUES (48, 168, NULL, 1, N'semejante')
+GO
+INSERT [dbo].[RespuestaPreguntasFijas] ([idEncuesta], [idControl], [observaciones], [recomienda], [calidad]) VALUES (48, 169, NULL, 1, N'semejante')
+GO
+INSERT [dbo].[RespuestaPreguntasFijas] ([idEncuesta], [idControl], [observaciones], [recomienda], [calidad]) VALUES (48, 170, NULL, 1, N'mejor')
+GO
+INSERT [dbo].[RespuestaPreguntasFijas] ([idEncuesta], [idControl], [observaciones], [recomienda], [calidad]) VALUES (48, 171, NULL, 1, N'semejante')
+GO
+INSERT [dbo].[RespuestaPreguntasFijas] ([idEncuesta], [idControl], [observaciones], [recomienda], [calidad]) VALUES (48, 172, NULL, 1, N'mejor')
+GO
+INSERT [dbo].[RespuestaPreguntasFijas] ([idEncuesta], [idControl], [observaciones], [recomienda], [calidad]) VALUES (48, 174, NULL, 1, N'mejor')
+GO
+INSERT [dbo].[RespuestaPreguntasFijas] ([idEncuesta], [idControl], [observaciones], [recomienda], [calidad]) VALUES (48, 175, NULL, 1, NULL)
+GO
+INSERT [dbo].[RespuestaPreguntasFijas] ([idEncuesta], [idControl], [observaciones], [recomienda], [calidad]) VALUES (48, 176, NULL, 1, N'mejor')
+GO
+INSERT [dbo].[RespuestaPreguntasFijas] ([idEncuesta], [idControl], [observaciones], [recomienda], [calidad]) VALUES (48, 177, NULL, 1, N'mejor')
+GO
+INSERT [dbo].[RespuestaPreguntasFijas] ([idEncuesta], [idControl], [observaciones], [recomienda], [calidad]) VALUES (48, 178, NULL, 1, N'semejante')
+GO
+INSERT [dbo].[RespuestaPreguntasFijas] ([idEncuesta], [idControl], [observaciones], [recomienda], [calidad]) VALUES (48, 179, NULL, 1, N'mejor')
+GO
+INSERT [dbo].[RespuestaPreguntasFijas] ([idEncuesta], [idControl], [observaciones], [recomienda], [calidad]) VALUES (48, 181, N'Contar con personal físico de control y seguimiento del Servicio en la Isla de Fuerteventura.', 1, N'mejor')
+GO
+INSERT [dbo].[RespuestaPreguntasFijas] ([idEncuesta], [idControl], [observaciones], [recomienda], [calidad]) VALUES (48, 182, N'Ya las hacemos en la ejecución del servicio, en función de las necesidades planteadas.', 1, N'mejor')
+GO
+INSERT [dbo].[RespuestaPreguntasFijas] ([idEncuesta], [idControl], [observaciones], [recomienda], [calidad]) VALUES (48, 183, NULL, 1, N'mejor')
+GO
+INSERT [dbo].[RespuestaPreguntasFijas] ([idEncuesta], [idControl], [observaciones], [recomienda], [calidad]) VALUES (48, 184, NULL, NULL, N'NA')
+GO
+INSERT [dbo].[RespuestaPreguntasFijas] ([idEncuesta], [idControl], [observaciones], [recomienda], [calidad]) VALUES (48, 186, NULL, NULL, NULL)
+GO
+INSERT [dbo].[RespuestaPreguntasFijas] ([idEncuesta], [idControl], [observaciones], [recomienda], [calidad]) VALUES (48, 192, NULL, 1, N'mejor')
+GO
+INSERT [dbo].[RespuestaPreguntasFijas] ([idEncuesta], [idControl], [observaciones], [recomienda], [calidad]) VALUES (48, 193, N'Cal millorar la comunicació amb el client i les memòries', 1, N'semejante')
+GO
+INSERT [dbo].[RespuestaPreguntasFijas] ([idEncuesta], [idControl], [observaciones], [recomienda], [calidad]) VALUES (48, 183, NULL, 1, NULL)
+GO
+INSERT [dbo].[RespuestaPreguntasFijas] ([idEncuesta], [idControl], [observaciones], [recomienda], [calidad]) VALUES (48, 184, NULL, 1, N'mejor')
+GO
+INSERT [dbo].[RespuestaPreguntasFijas] ([idEncuesta], [idControl], [observaciones], [recomienda], [calidad]) VALUES (56, 201, NULL, 1, N'semejante')
+GO
+INSERT [dbo].[RespuestaPreguntasFijas] ([idEncuesta], [idControl], [observaciones], [recomienda], [calidad]) VALUES (56, 202, N'No contesto a alguno de los items que se refieren a intervención directa con las personas usuarias porque esas son cuestiones del servicio que gestionamos nosotros directamente y no Clece.
+Incluso el resto de items me resulta dificil valorarlos porque aunque participe en ellos Clece no lo hace de forma exclusiva. ', 1, N'semejante')
+GO
+INSERT [dbo].[RespuestaPreguntasFijas] ([idEncuesta], [idControl], [observaciones], [recomienda], [calidad]) VALUES (56, 203, N'INCUMPLIMIENTO DE LOS OBJETIVOS ESTABLECIDOS EN EL PROYECTO, PUESTO QUE NO SE HAN CUMPLIDO NI UNA DÉCIMA PARTE DE LAS ACTUACIONES DEFINIDAS EN EL MISMO.', 0, N'peor')
+GO
+INSERT [dbo].[RespuestaPreguntasFijas] ([idEncuesta], [idControl], [observaciones], [recomienda], [calidad]) VALUES (56, 205, NULL, 1, N'NA')
+GO
+INSERT [dbo].[RespuestaPreguntasFijas] ([idEncuesta], [idControl], [observaciones], [recomienda], [calidad]) VALUES (56, 206, NULL, 1, N'mejor')
+GO
+INSERT [dbo].[RespuestaPreguntasFijas] ([idEncuesta], [idControl], [observaciones], [recomienda], [calidad]) VALUES (56, 208, N'Es necesario garantizar, en el menor tiempo posible, las sustituciones cuando se producen bajas o  en periodos vacacionales.', NULL, N'NA')
+GO
+INSERT [dbo].[RespuestaPreguntasFijas] ([idEncuesta], [idControl], [observaciones], [recomienda], [calidad]) VALUES (49, 212, NULL, NULL, N'semejante')
+GO
+INSERT [dbo].[RespuestaPreguntasFijas] ([idEncuesta], [idControl], [observaciones], [recomienda], [calidad]) VALUES (48, 197, NULL, 1, NULL)
+GO
+INSERT [dbo].[RespuestaPreguntasFijas] ([idEncuesta], [idControl], [observaciones], [recomienda], [calidad]) VALUES (48, 198, NULL, 1, N'mejor')
+GO
+INSERT [dbo].[RespuestaPreguntasFijas] ([idEncuesta], [idControl], [observaciones], [recomienda], [calidad]) VALUES (59, 216, N'', 1, N'mejor')
+GO
+SET IDENTITY_INSERT [dbo].[RespuestaPreguntasFijas] OFF
+GO
